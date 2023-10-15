@@ -1,6 +1,6 @@
-### Hi there! 👋
+## Hi there! 👋
 
-I'm a college student passionate about Computer Engineering with a strong interest in Embedded Systems. Here, you'll find a collection of my projects, contributions, and more.
+I'm a college student passionate about Computer Engineering 💻 with a strong interest in Embedded Systems. Here, you'll find a collection of my projects, contributions, and more.
 
 ## About Me
 
