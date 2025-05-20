@@ -1,6 +1,6 @@
-# Hi there! 👋
+## Hi there! 👋
 
-## 🎓 Senior at SJSU Studying Computer Engineering
+### 🎓 Senior at SJSU Studying Computer Engineering
 🔭 Actively seeking opportunities working with Embedded Systems and Machine Learning.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/harini-16-anand/)
