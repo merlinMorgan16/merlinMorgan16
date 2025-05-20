@@ -7,8 +7,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/harini-16-anand/)
 
 ## 🚀 Projects:
 
-### 🎯 Signature Detection Using Computer Vision for Automation Anywhere
-
+### 🖋️ Signature Detection Using Computer Vision for Automation Anywhere
 Led a project team to develop an object detection system for identifying signatures in customer documents (e.g., bank checks) using YOLO and Detectron2 computer vision models. Designed and deployed a Streamlit web application for real-time interaction with detection outputs.</p>
 
 <p><strong>Tech Stack:</strong><br />
@@ -17,7 +16,18 @@ Led a project team to develop an object detection system for identifying signatu
 <p><strong>Tools:</strong><br />
 <code>VSCode</code>, <code>Jupyter Notebook</code>, <code>Google Colab</code></p>
 
-<p>👉 <a href="https://github.com/savannahgong/Automation-Anywhere-1A" target="_blank">Explore the project on GitHub</a></p>
+<p>👉 <a href="https://github.com/savannahgong/Automation-Anywhere-1A" target="_blank">Check it out!</a></p><br />
+
+### 🏦 Full-Stack Banking Application 
+Built a full-stack banking application with a team of 8 using React, Node.js, and SQL. The system supports account management, fund transfers, and electronic ATM check deposits.</p>
+
+<p><strong>Tech Stack:</strong><br />
+<code>React</code>, <code>Node.js</code>, <code>Express.js</code>, <code>SQL</code>, <code>JavaScript</code></p>
+
+<p><strong>Tools:</strong><br />
+<code>VSCode</code>, <code>Postman</code>, <code>Git</code>, <code>GitHub Projects</code></p>
+
+<p>👉 <a href="https://github.com/yyaatt0/CMPE-131-Group-2" target="_blank">Check it out!</a></p><br />
 
 
 <!--
