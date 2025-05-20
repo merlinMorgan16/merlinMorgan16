@@ -7,11 +7,18 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/harini-16-anand/)
 
 ## 🚀 Projects:
 
-## 🎯 Signature Detection Using Computer Vision for Automation Anywhere
-Preprocessed and combined annotation files for over 2000 images, created Detectron2 and Yolov8 models to locate signatures, created Streamlit application for users to test out both models and locate signatures with any image.  <br />
-Tools: Python, PyTorch, Detectron2, Yolov8  <br />
-Applications: VSCode, Jupyter Notebooks, Google Colab, Streamlit  <br />
-See the full project [here](https://github.com/savannahgong/Automation-Anywhere-1A) 
+### 🎯 Signature Detection Using Computer Vision for Automation Anywhere
+
+Led a project team to develop an object detection system for identifying signatures in customer documents (e.g., bank checks) using YOLO and Detectron2 computer vision models. Designed and deployed a Streamlit web application for real-time interaction with detection outputs.</p>
+
+<p><strong>Tech Stack:</strong><br />
+<code>Python</code>, <code>PyTorch</code>, <code>Detectron2</code>, <code>YOLOv8</code>, <code>Streamlit</code></p>
+
+<p><strong>Tools:</strong><br />
+<code>VSCode</code>, <code>Jupyter Notebook</code>, <code>Google Colab</code></p>
+
+<p>👉 <a href="https://github.com/savannahgong/Automation-Anywhere-1A" target="_blank">Explore the project on GitHub</a></p>
+
 
 <!--
 **merlinMorgan16/merlinMorgan16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
