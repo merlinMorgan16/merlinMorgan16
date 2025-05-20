@@ -1,10 +1,17 @@
 ## Hi there! 👋
 
 ### 🎓 Senior at SJSU Studying Computer Engineering
-🔭 Actively seeking opportunities working with Embedded Systems and Machine Learning.
+### 🔭 Actively seeking opportunities working with Embedded Systems and Machine Learning.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/harini-16-anand/)
 
+## 🚀 Projects:
+
+## 🎯 Signature Detection Using Computer Vision for Automation Anywhere
+Preprocessed and combined annotation files for over 2000 images, created Detectron2 and Yolov8 models to locate signatures, created Streamlit application for users to test out both models and locate signatures with any image.  <br />
+Tools: Python, PyTorch, Detectron2, Yolov8  <br />
+Applications: VSCode, Jupyter Notebooks, Google Colab, Streamlit  <br />
+See the full project [here](https://github.com/savannahgong/Automation-Anywhere-1A) 
 
 <!--
 **merlinMorgan16/merlinMorgan16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
