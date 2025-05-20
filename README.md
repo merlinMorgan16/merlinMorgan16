@@ -1,6 +1,7 @@
 ## Hi there! 👋
 
-I'm a Computer Engineering student at SJSU passionate about Embedded Systems and Machine Learning.
+# 🎓 Senior at SJSU Studying Computer Engineering
+🔭 Actively seeking opportunities working with Embedded Systems and Machine Learning.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/harini-16-anand/)
 
