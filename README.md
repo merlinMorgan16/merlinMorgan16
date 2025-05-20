@@ -1,13 +1,9 @@
 ## Hi there! 👋
 
-I'm a college student passionate about Computer Engineering 💻 with a strong interest in Embedded Systems. Here, you'll find a collection of my projects, contributions, and more.
+I'm a Computer Engineering student at SJSU passionate about Embedded Systems and Machine Learning.
 
-## About Me
+Connect with me on [LinkedIn](https://www.linkedin.com/in/harini-16-anand/)
 
-- 🎓 Studying Computer Engineering at SJSU.
-- 💼 Actively seeking internships and opportunities in Embedded Software Systems Engineering.
-- 🌱 Continuously learning and exploring new technologies and concepts.
-- 🤝 Open to collaboration and eager to contribute to exciting projects.
 
 <!--
 **merlinMorgan16/merlinMorgan16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
